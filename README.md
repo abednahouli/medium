@@ -21,7 +21,7 @@ The repository is organized into folders based on the topic or technology discus
 ```
 medium/
 └── nodejs/
-    └── first-article.md
+    └── README.md
 ```
 
 - **nodejs/**: Contains code for article related to "Node.js express project".
@@ -36,7 +36,7 @@ You can also clone this repository and view the articles locally:
 ```bash
 git clone https://github.com/abednahouli/medium.git
 cd medium/nodejs
-open first-article.md
+open README.md
 ```
 
 ## Contribution Guidelines
